@@ -3,7 +3,7 @@ fleetm365 : Finance &amp; Operations # Fleet Management # Dynamic 365 # Office I
 
 
 ## Objective
-To perform office integration in finance and operations.
+To perform Microsoft Office integration in finance and operations.
 
 
 ## Fleet Management Dataset Office Integrations in Finance and Operations Apps
